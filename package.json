@@ -1,0 +1,23 @@
+{
+  "name": "coderbackend",
+  "version": "1.0.0",
+  "description": "Proyecto back end CoderHouse",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cheloflorez/Backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cheloflorez/Backend/issues"
+  },
+  "homepage": "https://github.com/cheloflorez/Backend#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
